@@ -14,26 +14,6 @@ I've worked on fintech products at **Stone**, **SumUp** and **PicPay**.
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-## 🚀 Featured projects
-
-### [Monster Compendium](https://github.com/alexandregpereira/Monster-Compendium)
-[![Stars](https://img.shields.io/github/stars/alexandregpereira/Monster-Compendium?style=flat&logo=github&label=Stars)](https://github.com/alexandregpereira/Monster-Compendium/stargazers)
-[![Forks](https://img.shields.io/github/forks/alexandregpereira/Monster-Compendium?style=flat&logo=github&label=Forks)](https://github.com/alexandregpereira/Monster-Compendium/forks)
-
-A D&D 5th edition monster compendium built with Kotlin Multiplatform, running on **Android, iOS, macOS, Windows and Linux** from a single codebase. Recognized by the **Google Dev Library**.
-
-### [Monster Compendium Content](https://github.com/alexandregpereira/Monster-Compendium-Content)
-[![Stars](https://img.shields.io/github/stars/alexandregpereira/Monster-Compendium-Content?style=flat&logo=github&label=Stars)](https://github.com/alexandregpereira/Monster-Compendium-Content/stargazers)
-[![Forks](https://img.shields.io/github/forks/alexandregpereira/Monster-Compendium-Content?style=flat&logo=github&label=Forks)](https://github.com/alexandregpereira/Monster-Compendium-Content/forks)
-
-The Python content pipeline behind Monster Compendium.
-
-### [Jerry](https://github.com/alexandregpereira/Jerry)
-[![Stars](https://img.shields.io/github/stars/alexandregpereira/Jerry?style=flat&logo=github&label=Stars)](https://github.com/alexandregpereira/Jerry/stargazers)
-[![Forks](https://img.shields.io/github/forks/alexandregpereira/Jerry?style=flat&logo=github&label=Forks)](https://github.com/alexandregpereira/Jerry/forks)
-
-An Android library with animation APIs built on spring-based physics.
-
 ## 📊 GitHub Stats
 
 <picture>
