@@ -4,7 +4,7 @@
 <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">
 <text x="25" y="38" fill="#24292f" font-size="18" font-weight="700">Alexandre G Pereira's GitHub Stats</text>
 <text x="25" y="78" fill="#57606a" font-size="14" font-weight="600">Total Stars Earned:</text>
-<text x="210" y="78" fill="#24292f" font-size="14" font-weight="700">130</text>
+<text x="210" y="78" fill="#24292f" font-size="14" font-weight="700">131</text>
 <text x="25" y="104" fill="#57606a" font-size="14" font-weight="600">Total Forks:</text>
 <text x="210" y="104" fill="#24292f" font-size="14" font-weight="700">20</text>
 <text x="25" y="130" fill="#57606a" font-size="14" font-weight="600">Total Commits:</text>
@@ -17,7 +17,7 @@
 <text x="210" y="208" fill="#24292f" font-size="14" font-weight="700">0</text>
 <circle cx="385" cy="136" r="44" fill="none" stroke="#e4e2e2" stroke-width="6"/>
 <circle cx="385" cy="136" r="44" fill="none" stroke="#0969da" stroke-width="6" stroke-linecap="round" stroke-dasharray="207.3 276.5" transform="rotate(-90 385 136)"/>
-<text x="385" y="138" text-anchor="middle" fill="#24292f" font-size="22" font-weight="700">130</text>
+<text x="385" y="138" text-anchor="middle" fill="#24292f" font-size="22" font-weight="700">131</text>
 <text x="385" y="158" text-anchor="middle" fill="#57606a" font-size="12">★ stars</text>
 </g>
 </svg>
