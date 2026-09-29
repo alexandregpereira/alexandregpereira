@@ -6,7 +6,7 @@
 <text x="25" y="78" fill="#a0a0a0" font-size="14" font-weight="600">Total Stars Earned:</text>
 <text x="210" y="78" fill="#d6d6d6" font-size="14" font-weight="700">131</text>
 <text x="25" y="104" fill="#a0a0a0" font-size="14" font-weight="600">Total Forks:</text>
-<text x="210" y="104" fill="#d6d6d6" font-size="14" font-weight="700">20</text>
+<text x="210" y="104" fill="#d6d6d6" font-size="14" font-weight="700">21</text>
 <text x="25" y="130" fill="#a0a0a0" font-size="14" font-weight="600">Total Commits:</text>
 <text x="210" y="130" fill="#d6d6d6" font-size="14" font-weight="700">1,168</text>
 <text x="25" y="156" fill="#a0a0a0" font-size="14" font-weight="600">Total PRs:</text>
