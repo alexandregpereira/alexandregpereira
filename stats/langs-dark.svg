@@ -5,7 +5,7 @@
 <text x="25" y="38" fill="#ffffff" font-size="18" font-weight="700">Most Used Languages</text>
 <clipPath id="bar"><rect x="25" y="55" width="300" height="8" rx="4"/></clipPath>
 <rect x="25" y="55" width="300" height="8" rx="4" fill="#2a2a2a"/>
-<g clip-path="url(#bar)"><rect x="25.00" y="55" width="107.49" height="8" fill="#4F5D95"/><rect x="132.49" y="55" width="80.58" height="8" fill="#A97BFF"/><rect x="213.07" y="55" width="36.22" height="8" fill="#f1e05a"/><rect x="249.28" y="55" width="28.74" height="8" fill="#e34c26"/><rect x="278.02" y="55" width="24.72" height="8" fill="#DA5B0B"/><rect x="302.75" y="55" width="22.25" height="8" fill="#b07219"/></g>
+<g clip-path="url(#bar)"><rect x="25.00" y="55" width="107.48" height="8" fill="#4F5D95"/><rect x="132.48" y="55" width="80.59" height="8" fill="#A97BFF"/><rect x="213.07" y="55" width="36.21" height="8" fill="#f1e05a"/><rect x="249.29" y="55" width="28.74" height="8" fill="#e34c26"/><rect x="278.02" y="55" width="24.72" height="8" fill="#DA5B0B"/><rect x="302.75" y="55" width="22.25" height="8" fill="#b07219"/></g>
 <circle cx="30" cy="88" r="5" fill="#4F5D95"/>
 <text x="41" y="92" fill="#a0a0a0" font-size="12">PHP 34.47%</text>
 <circle cx="195" cy="88" r="5" fill="#A97BFF"/>
